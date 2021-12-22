@@ -21,4 +21,4 @@ process takes a large portion of the total time.
 The program supposes that the STK is connected to the COM3 port, else it should be changed in the batch file.
 
 
-All the files of the "HRY411_Performance_Analysis" repository are also submitted on eclass, except from the output log files, because of their large size (~8MB).
+Most of the files of the "HRY411_Performance_Analysis" repository are also submitted on eclass, except from the output log files and the generated boards, because of their large size (~8MB).
